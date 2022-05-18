@@ -1,0 +1,16 @@
+{
+  "name": "test-foo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "foo": "github:geoffreytools/foo",
+    "free-types": "github:geoffreytools/free-types-private",
+    "ts-test": "github:geoffreytools/ts-test"
+  }
+}
